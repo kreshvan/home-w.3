@@ -1,22 +1,22 @@
 public class Main {
     public static void main(String[] args) {
 //задача 1
-        var dog = 0.8;
-        System.out.println(dog);
+        var dog1 = 0.8;
+        System.out.println(dog1);
         var cat = 3.6;
         System.out.println(cat);
         var paper = 763789;
         System.out.println(paper);
 //задача 2
-        dog = 0.8 + 2;
-        System.out.println(dog);
+        dog1 = 0.8 + 2;
+        System.out.println(dog1);
         cat = 3.6 + 2;
         System.out.println(cat);
         paper = 763789 + 2;
         System.out.println(paper);
         //задача 3
-        var dog1 = dog - 3.5;
-        System.out.println(dog1);
+        var dog2 = dog1 - 3.5;
+        System.out.println(dog2);
         var cat1 = cat - 1.6;
         System.out.println(cat1);
         var paper1 = paper - 7639;
